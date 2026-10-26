@@ -21,7 +21,27 @@ A simple CRUD application built using HTML, CSS, JavaScript, Node.js, Express.js
 - REST API
 
 ## Application Output:
+<b>1.Initial output:
 
+![Initial Output](output/output1.png)
+
+2.Add-item Output:
+
+![add-item Output](output/output2.png)
+
+3.Edit-item Output:
+
+![edit-item Output](output/output3.png)
+
+4.Update-item Output:
+
+![update-item Output](output/output4.png)
+
+5.Delete-item Output:</b>
+
+![delete-item Output](output/output5.png)
+
+![delete-item Output](output/output6.png)
 
 ## Project Structure
 
